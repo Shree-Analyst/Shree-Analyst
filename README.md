@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Shreeraj, an aspring data analyst. Find me here: @Shree-Analyst
-- 👀 I’m interested in analysing data that helps inform business decisions.
-- 🌱 I’m currently learning fundamentals of advanced data analysis using AI tools as thought partners: statistical modeling, Python, prompt engineering.
-- 💞️ I’m looking to collaborate on data projects requiring insight finding and dashboarding!
+- 👋 Hi, I’m Shreeraj, an inquisitive data analyst. Find me here: @Shree-Analyst
+- 👀 I’m interested in extracting insights from raw data that helps drive decision-making.
+- 🌱 I’m currently part of a 40-person accelerator cohort designed to gain experience working with real-world datasets in Excel, SQL, Tableau, and Python.
 - 📫 How to reach me: email me at salunke.shreeraj@gmail.com.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: In 2017, Liverpool FC's data team convinced the manager to sign a certain Mohammed Salah over Julian Brandt. The rest is history.
+- ⚡ Fun fact: In 2017, Liverpool FC's data team convinced the manager to sign Mohammed Salah over other targets. He went on to become the historic club's 3rd leading goalscorer of all time and won the prestigious 'Player of the Year' award a record 3 times in 8 seasons.
 
 <!---
 Shree-Analyst/Shree-Analyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
