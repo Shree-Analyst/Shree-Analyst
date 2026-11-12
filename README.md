@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Shreeraj, an inquisitive data analyst.
-- 👀 I’m looking to leverage my skills & experience to support company success in the hospitality, data consulting, or fitness domains.
-- 🌱 I was selected to be part of a 40-person accelerator cohort to gain experience working with real company datasets in Excel, SQL, Tableau, and Python.
-- 📫 How to reach me: email me at salunke.shreeraj@gmail.com.
+- 👋 Hi, I’m Shreeraj, an inquisitive AI Consultant.
+- 👀 I’m looking to build time-saving automations using GenAI to redefine organizational AI impact across domains.
+- 🌱 I am currently an AI Consultant at Enreap India.
+- 📫 How to reach me: email me at shreeraj.aiml@gmail.com.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: In 2017, Liverpool FC's data team convinced the manager to sign Mohammed Salah over other targets. He went on to become the historic club's 3rd leading goalscorer of all time and won the prestigious 'Player of the Year' award a record 3 times in 8 seasons.
 
 Here is a snapshot of some of my projects:
 # [WebOne Gadgets E-Commerce Analysis](https://github.com/Shree-Analyst/WebOne_ECommerce_Analysis/)
